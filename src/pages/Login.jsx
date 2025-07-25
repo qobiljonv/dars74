@@ -40,6 +40,10 @@ function Login() {
           <h1 className="text-center text-4xl pb-7 text-black font-bold">
             Login
           </h1>
+          <p>
+            qobiljon@gmail.com <br />
+            2424
+          </p>
           <fieldset className="fieldset w-[300px]">
             <legend className="fieldset-legend">Email:</legend>
             <input
